@@ -1,0 +1,6 @@
+review_id,location,rating,date,reviewer_name,comment,reply_status
+rev001,Downtown Store,5,2024-01-15,John D.,Excellent service and friendly staff!,replied
+rev002,Mall Location,4,2024-01-14,Sarah M.,Good products but long wait time,replied
+rev003,Downtown Store,5,2024-01-13,Mike R.,Best experience ever. Highly recommend!,replied
+rev004,City Center,3,2024-01-12,Lisa K.,Average experience. Could be better.,pending
+rev005,Suburban Store,5,2024-01-11,David W.,Amazing quality and great prices,replied
