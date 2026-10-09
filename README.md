@@ -36,8 +36,7 @@ Google My Business MCP is a **remote Model Context Protocol server** that connec
 2. Open [Claude Connectors Settings](https://claude.ai/settings/connectors)
 3. Scroll to the bottom and click **Add custom connector**
 4. Paste the URL and click **Add**
-5. Click **Connect** on the connector to start authorization
-6. Click **Authorize access** in the browser to complete the connection
+5. Click **Connect** and sign in to InsightfulPipe if asked. Claude then lists the connector as connected.
 
 ### ChatGPT
 
@@ -45,7 +44,7 @@ Custom MCP servers are added through ChatGPT's **Developer mode**. Availability 
 
 1. Turn on **Developer mode** in ChatGPT settings
 2. Create a new app for a remote MCP server and paste the URL: `https://google-my-business.insightfulmcp.com/`
-3. Authorize with your InsightfulPipe account
+3. Sign in to InsightfulPipe if asked. The connection finishes as soon as you are signed in.
 
 See OpenAI's guide: [Developer mode and MCP apps in ChatGPT](https://help.openai.com/en/articles/12584461-developer-mode-and-mcp-apps-in-chatgpt)
 
@@ -69,7 +68,7 @@ Add the server to `~/.cursor/mcp.json` (all projects) or `.cursor/mcp.json` (one
 }
 ```
 
-Then authorize the connection when Cursor prompts you.
+When Cursor shows **Needs authentication**, click **Connect** and sign in to InsightfulPipe if asked.
 
 ## Available Actions
 
