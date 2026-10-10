@@ -188,7 +188,7 @@ You decide what AI agents can do with each connected account:
 
 ## Pricing
 
-The Google My Business MCP server is included in every InsightfulPipe plan, together with all other MCP servers and the CLI. Plans start at $29.99/month with a 7-day free trial. See [insightfulpipe.com/pricing](https://insightfulpipe.com/pricing) for current plans.
+The Google My Business MCP server is included in every InsightfulPipe plan, together with all other MCP servers and the CLI. Plans start at $29.99/month, and you can try it for 7 days. See [insightfulpipe.com/pricing](https://insightfulpipe.com/pricing) for current plans.
 
 ## Explore More MCP Servers by Insightful Pipe
 
