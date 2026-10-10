@@ -161,7 +161,6 @@ You decide what AI agents can do with each connected account:
 | Phone Calls | Click-to-call actions |
 | Total Reviews | Review count |
 | Average Rating | Star rating average |
-| Photo Views | Business photo views |
 
 ## Why Google My Business MCP?
 
